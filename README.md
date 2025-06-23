@@ -4,7 +4,7 @@ A responsive, modern Link in Bio application built with Vite, React, TypeScript,
 
 ## 📍 Live Demo
 
-[View Live App](https://your-demo-url.com) <!-- Replace with actual link like Vercel/Netlify -->
+[View Live App](https://linkinbio-app.vercel.app) <!-- Replace with actual link like Vercel/Netlify -->
 
 ## 🛠️ Tech Stack
 
