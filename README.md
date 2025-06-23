@@ -36,3 +36,11 @@ npm install
 # Start the development server
 npm run dev
 ```
+
+## Author
+
+**Archit Sharma**  
+Frontend Developer • React • JavaScript  
+🔗 [GitHub](https://github.com/archit-react)  
+🔗 [LinkedIn](https://linkedin.com/in/archit-react)  
+🔗 [Portfolio](https://archit.dev)
