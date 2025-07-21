@@ -2,11 +2,11 @@
 
 A responsive, modern Link in Bio application built with Vite, React, TypeScript, and Tailwind CSS.
 
-## 📍 Live Demo
+## Live Demo
 
 [View Live App](https://linkinbio-app.vercel.app) <!-- Replace with actual link like Vercel/Netlify -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**
 - **Vite**
@@ -14,14 +14,14 @@ A responsive, modern Link in Bio application built with Vite, React, TypeScript,
 - **Tailwind CSS**
 - **ESLint & Prettier**
 
-## 🚀 Features
+## Features
 
 - Mobile-first, responsive layout
 - Customizable link cards
 - Clean and minimal UI
 - Easy to integrate into your personal brand
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
